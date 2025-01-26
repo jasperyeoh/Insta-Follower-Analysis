@@ -1,0 +1,60 @@
+# 如何获取粉丝和关注的 HTML 数据 / How to Gain Followers and Following Data from Instagram (Legally)
+
+以下是合法获取 Instagram Follower 和 Following 数据的详细步骤：
+
+---
+
+## 中文版
+1. **登录你的 Instagram 帐号**
+   在浏览器中访问 https://www.instagram.com 并登录你的账号。
+
+2. **进入设置页面**
+   - 点击右上角头像图标，选择“设置与隐私”。
+   - 找到“您的活动”，点击进入。
+
+3. **下载信息**
+   - 滚动到底部，找到“下载您的信息”选项。
+   - 选择“部分信息”，并勾选“粉丝和关注”。
+   - 选择“下载到设备”，时间范围选择“所有时间”。
+
+4. **接收邮件**
+   - 提交后，Instagram 会通过电子邮件发送数据下载链接。
+   - 打开邮件，点击链接下载 ZIP 文件，并解压。
+
+5. **找到数据文件**
+   - 在解压后的文件夹中，进入 `connections/followers_and_following`。
+   - 你会找到两个 HTML 文件：`followers.html` 和 `following.html`。
+
+6. **将文件用于项目**
+   - 将这两个文件复制到项目目录，准备运行脚本进行分析。
+
+---
+
+## English Version
+1. **Log in to Your Instagram Account**
+   Visit https://www.instagram.com in your browser and log in to your account.
+
+2. **Navigate to Settings**
+   - Click your profile icon in the top-right corner and select "Settings and Privacy."
+   - Find "Your Activity" in the menu and click it.
+
+3. **Download Your Information**
+   - Scroll to the bottom to find "Download your information."
+   - Select "Some of your information," and check the box for "Followers and Following."
+   - Choose "Download to device," and set the data range to "All time."
+
+4. **Receive the Data**
+   - After submitting the request, Instagram will send an email with a download link.
+   - Open the email, click the link, download the ZIP file, and extract it.
+
+5. **Locate the Data Files**
+   - In the extracted folder, navigate to `connections/followers_and_following`.
+   - You will find two HTML files: `followers.html` and `following.html`.
+
+6. **Use the Files in the Project**
+   - Copy these two files into the project directory to prepare for analysis with the scripts.
+
+---
+
+以上步骤完全合法并符合 Instagram 的隐私政策，请勿将数据用于未授权用途。
+These steps are fully compliant with Instagram’s privacy policy. Do not use the data for unauthorized purposes.
