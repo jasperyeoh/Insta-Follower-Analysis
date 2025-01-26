@@ -11,12 +11,12 @@ This is a simple Python toolkit for analyzing the follower and following data of
 ---
 
 ## 🛠 功能 (Features)  
-1. **提取用户名**：从 Instagram 的 HTML 数据文件中提取 Follower 和 Following 用户名列表。  
+1. **提取用户名**：从 Instagram 的 HTML 数据文件中提取 Follower 和 Following 用户名列表。(从个人信息中下载，选择下载所有时间的followers and following data)
 2. **未回关用户分析**：对比 Follower 和 Following，找出未回关你的用户。  
 3. **历史数据对比**：比较之前的记录，找出新增的未回关用户。  
 4. **取关分析**：通过不同时间段的 Follower 快照，识别取关用户。  
 
-1. **Extract Usernames**: Extract follower and following username lists from Instagram HTML data files.  
+1. **Extract Usernames**: Extract follower and following username lists from Instagram HTML data files. (Download your personal information from instagram, then click "follower and following", select all)
 2. **Non-Followback Detection**: Compare followers and followings to find users who don’t follow you back.  
 3. **Historical Comparison**: Compare previous records to find newly added non-followback users.  
 4. **Unfollow Analysis**: Detect users who unfollowed you by comparing snapshots of follower data.  
