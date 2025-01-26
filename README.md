@@ -9,6 +9,11 @@ This is a simple Python toolkit for analyzing the follower and following data of
 - Analyze who unfollowed you over time.  
 
 ---
+## 数据获取 / How to Get Data
+请参阅 [data_instructions.txt](data_instructions.txt) 获取详细步骤。
+Please refer to [data_instructions.txt](data_instructions.txt) for detailed steps.
+
+---
 
 ## 🛠 功能 (Features)  
 1. **提取用户名**：从 Instagram 的 HTML 数据文件中提取 Follower 和 Following 用户名列表。(从个人信息中下载，选择下载所有时间的followers and following data)
